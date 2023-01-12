@@ -38,9 +38,11 @@
     cursor: pointer;
 }
 
+
+
 .container-two {
     width: 70%;
-    height: 90vh;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -86,3 +88,8 @@
     text-align: center;
     font-weight: bold;
 }
+
+.bomb {
+    background-color: red !important;
+}
+
